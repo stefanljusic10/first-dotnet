@@ -27,6 +27,11 @@ namespace Termin10Primer04
             // Prazna metoda
         }
 
+        static void Metoda05()
+        {
+            // Prazna metoda
+        }
+
         static void Main(string[] args)
         {
             Metoda01();
